@@ -5,7 +5,7 @@
 -タイピング練習をするアプリ
 
 ## ③DEMO
-https://shihoko-terasaki.github.io/kadai02_janken_rich/
+
 
 ## ④工夫した点・こだわった点
 -タイピングが正しいときは色が変わる。間違っていると赤字にかわる。-
